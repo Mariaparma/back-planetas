@@ -1,5 +1,4 @@
 import { Router } from "express";
-
 import planetasRoutes from "./planetas.routes.js";
 
 const routes = Router();
